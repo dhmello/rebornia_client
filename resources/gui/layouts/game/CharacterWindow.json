@@ -1,5 +1,5 @@
 {
-  "Bounds": "678,366,220,424",
+  "Bounds": "651,349,220,424",
   "Dock": "None",
   "Padding": "0,0,0,0",
   "AlignmentEdgeDistances": "0,0,6,60",
@@ -197,7 +197,7 @@
         "TextScale": 1.0
       },
       "AttackLabel": {
-        "Bounds": "26,314,1,14",
+        "Bounds": "25,312,1,14",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -268,7 +268,7 @@
         "CenterImage": false
       },
       "DefenseLabel": {
-        "Bounds": "25,360,1,14",
+        "Bounds": "25,328,1,14",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -370,7 +370,7 @@
         "TextScale": 1.0
       },
       "AbilityPowerLabel": {
-        "Bounds": "26,329,1,14",
+        "Bounds": "25,344,1,14",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -441,7 +441,7 @@
         "CenterImage": false
       },
       "MagicResistLabel": {
-        "Bounds": "26,345,1,14",
+        "Bounds": "25,360,1,14",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
@@ -512,7 +512,7 @@
         "CenterImage": false
       },
       "PointsLabel": {
-        "Bounds": "46,378,1,14",
+        "Bounds": "46,376,1,14",
         "Dock": "None",
         "Padding": "0,0,0,0",
         "AlignmentEdgeDistances": "0,0,0,0",
